@@ -35,14 +35,14 @@ class List {
     if(isEmpty())
       return NULL;
     
-    ListNode *topNode = peek(); //remember orig frontPtr for returning
+    ListNode *topNode = frontPtr; //remember orig frontPtr for returning
     frontPtr = topNode->next; //move frontPtr to next in the list
-    return topNode;
+    return topNode->item;
   }
   
   dataType peek()
   {
-    return frontPtr;
+    return frontPtr->item;
   }
   
   /* UTILITIES */
