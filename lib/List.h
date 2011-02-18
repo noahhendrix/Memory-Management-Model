@@ -3,8 +3,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 template <class dataType>
 class List {
   struct ListNode {
@@ -58,7 +56,7 @@ class List {
     ListNode *curNode = frontPtr;
     
     while(curNode != NULL) {
-      cout << curNode->item << endl;
+      std::cout << curNode->item << std::endl;
       curNode = curNode->next;
     }
   }
