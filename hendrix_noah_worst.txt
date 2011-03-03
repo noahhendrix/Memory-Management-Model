@@ -1,0 +1,50 @@
+-------------------------
+Starting Job#5678 at 0
+-------------------------
+Starting Job#8124 at 15
+-------------------------
+Starting Job#1850 at 35
+-------------------------
+Starting Job#3982 at 55
+-------------------------
+Terminating Job#1850 at time 12
+-------------------------
+Terminating Job#8124 at time 21
+-------------------------
+Starting Job#5823 at 15
+-------------------------
+Compacting
+Free memory: 10
+Moving Job#5678 from address 0 to 10
+Moving Job#3982 from address 55 to 25
+Moving Job#5823 from address 15 to 65
+-------------------------
+Starting Job#5409 at 0
+-------------------------
+Terminating Job#5678 at time 30
+-------------------------
+Terminating Job#5823 at time 46
+-------------------------
+Starting Job#7654 at 65
+-------------------------
+Starting Job#3456 at 7
+-------------------------
+Terminating Job#3982 at time 53
+-------------------------
+Starting Job#1596 at 12
+-------------------------
+Terminating Job#1596 at time 73
+-------------------------
+Starting Job#9176 at 12
+-------------------------
+Terminating Job#5409 at time 82
+-------------------------
+Terminating Job#9176 at time 88
+-------------------------
+Terminating Job#3456 at time 97
+-------------------------
+Terminating Job#7654 at time 146
+-------------------------
+0 Available Jobs
+
+0 Running Jobs

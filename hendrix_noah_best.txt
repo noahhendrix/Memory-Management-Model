@@ -1,0 +1,29 @@
+BEST
+-------------------------
+Starting Job#1000 at 0
+-------------------------
+Starting Job#1001 at 20
+-------------------------
+Starting Job#1002 at 50
+-------------------------
+Starting Job#1003 at 82
+-------------------------
+Terminating Job#1003 at time 8
+-------------------------
+Terminating Job#1002 at time 22
+-------------------------
+Terminating Job#1001 at time 26
+-------------------------
+Starting Job#1004 at 20
+-------------------------
+Terminating Job#1000 at time 50
+-------------------------
+Terminating Job#1004 at time 66
+-------------------------
+Starting Job#1005 at 0
+-------------------------
+Starting Job#1006 at 41
+-------------------------
+Terminating Job#1006 at time 99
+-------------------------
+Terminating Job#1005 at time 107
